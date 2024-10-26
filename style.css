@@ -116,18 +116,25 @@
 #model-div3{
     border-radius: 10px;
     border: #d0d0e1  solid 2px ;
-    margin:20px 20px;
+    margin:10px 20px;
     height:50px;
     font-size: 20px;
     padding: 20px 10px;
     color:#d0d0e1 ;
     align-content: center;
+    text-align: center;
     
+}
+.model-div4{
+    display:flex;
+    margin:10px 20px;
+    flex-direction: row-reverse;
+
 }
 
 .upload-close-btn{
-  margin-left: 80%;
-  margin-bottom: 15px;
+  margin-left: 10px;
+  margin-top: 12px;
   background-color: rgb(52, 52, 254);
   border-radius: 7px;
   padding: 10px 18px;
@@ -139,15 +146,15 @@
 }
 
 .close-btn{
-
-     
-        background-color: rgb(52, 52, 254);
-        border-radius: 7px;
-        padding: 10px 18px;
-        border: none;
-        font-size: 18px;
-        align-content: center;
-        color:white;
-        
-      
+    margin-left: 10px;
+    margin-top: 12px;
+    color: black;
+    border-radius:7px;
+    padding: 10px 18px;
+    border: rgb(76, 76, 76) solid 2px;
+    font-size: 18px;
+    align-content: center;
+    
 }
+
+
