@@ -93,7 +93,7 @@
     height:30px;
     width:40px;
     border-radius: 7px;
-    margin: 7px 10px;
+    margin-top: 10px ;
     
    
         
@@ -104,8 +104,21 @@
     border: #8585ad c solid 2px ;
     background-color:#b3b3cc ;
     height:50px;
-    font-size: 21px;
+    font-size: 20px;
+    margin:20px 20px;
+    padding: 15px 10px;
+    align-content:flex-start;
+}
+
+#model-div3{
+    border-radius: 10px;
+    border: #d0d0e1  solid 2px ;
+    margin:20px 20px;
+    height:50px;
+    font-size: 20px;
     padding: 20px 10px;
-    align-items: start;
+    color:#d0d0e1 ;
+    align-content: center;
+    
 }
 
