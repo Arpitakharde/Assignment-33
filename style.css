@@ -125,3 +125,29 @@
     
 }
 
+.upload-close-btn{
+  margin-left: 80%;
+  margin-bottom: 15px;
+  background-color: rgb(52, 52, 254);
+  border-radius: 7px;
+  padding: 10px 18px;
+  border: none;
+  font-size: 18px;
+  align-content: center;
+  color:white;
+  
+}
+
+.close-btn{
+
+     
+        background-color: rgb(52, 52, 254);
+        border-radius: 7px;
+        padding: 10px 18px;
+        border: none;
+        font-size: 18px;
+        align-content: center;
+        color:white;
+        
+      
+}
