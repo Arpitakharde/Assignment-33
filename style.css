@@ -88,3 +88,20 @@
     margin:100px auto;
 
 }
+
+#arrow-image{
+    height:30px;
+    width:30px;
+   
+        
+}
+
+#model-div2{
+    border-radius: 10px;
+    border: #8585ad c solid 2px ;
+    background-color:#b3b3cc ;
+    height:50px;
+    font-size: 20px;
+    padding: 20px 10px;
+}
+
