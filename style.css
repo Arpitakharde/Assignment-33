@@ -22,6 +22,16 @@
     align-content: center;
 }
 
+   #topleft-txt{
+    margin-left:13px;
+   }
+
+   #topRight-txt{
+    position: absolute;
+    margin-left:20px;
+    right:200px;
+   }
+
 
 #span{
     color:red;
@@ -43,12 +53,18 @@
 
 #btn{
     background-color: black;
-    font-size: 15px;
+    font-size: 14px;
     border-radius: 20px;
     color: white;
-    width:120px;
+    width:130px;
     align-items: center;
-    padding: 10px 10px 10px ;
     margin-top: 50px;
     margin-left:400px;
+    height:40px;
+    align-items:flex-start;
+}
+#image{
+    height:20px;
+    align-content: baseline;
+
 }
