@@ -91,7 +91,10 @@
 
 #arrow-image{
     height:30px;
-    width:30px;
+    width:40px;
+    border-radius: 7px;
+    margin: 7px 10px;
+    
    
         
 }
@@ -101,7 +104,8 @@
     border: #8585ad c solid 2px ;
     background-color:#b3b3cc ;
     height:50px;
-    font-size: 20px;
+    font-size: 21px;
     padding: 20px 10px;
+    align-items: start;
 }
 
