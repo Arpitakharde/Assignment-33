@@ -19,13 +19,8 @@
     height:40px;
     background-color:#b3ccff ;
     font-size: 20px;
-    
     align-items: center;
-   
 }
-#date-style{
-    
-  }
 
 
 #span{
@@ -33,9 +28,14 @@
 }
 
 #paragraph-font{
-    font-size: 23px;
+    font-size: 22px;
     font-family:Arial, Helvetica, sans-serif;
     padding-left: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+#text{
+    font-size: 20px;
+    margin-left:30px;
 }
