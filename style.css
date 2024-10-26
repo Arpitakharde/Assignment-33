@@ -19,7 +19,7 @@
     height:40px;
     background-color:#b3ccff ;
     font-size: 20px;
-    align-items: center;
+    align-content: center;
 }
 
 
@@ -38,4 +38,17 @@
 #text{
     font-size: 20px;
     margin-left:30px;
+    font-family:Ebrima;
+}
+
+#btn{
+    background-color: black;
+    font-size: 15px;
+    border-radius: 20px;
+    color: white;
+    width:120px;
+    align-items: center;
+    padding: 10px 10px 10px ;
+    margin-top: 50px;
+    margin-left:400px;
 }
