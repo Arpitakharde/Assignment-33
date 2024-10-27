@@ -23,11 +23,11 @@
             <li>Design should be attractive</li>
             <li>Push code to GitHub and host it on Netlify and share link of repo and hosting </li>
           </ul>
-          <button id="btn" >
+          <button id="btn"  onclick="openModel()">
             <img src="./image/arrow.jpg"  id="image"> Add File </button>
     </div>
      
-    <div class="overlay"> 
+    <div class="overlay"  id="overlay"> 
         <div class="model">
           <h1 id="heading2">Upload Assignment Submission</h1>
   
@@ -46,5 +46,12 @@
           </div>
         </div>
     </div>
+    <script>
+          
+           function openModel(){
+            const overlayElement = document.getElementById("overlay");
+            overlayElement.style.display="flex";
+           }
+    </script>
 </body>
 </html>
