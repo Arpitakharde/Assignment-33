@@ -42,7 +42,7 @@
             <div class="model-div4">
                  
                  <button  class="upload-close-btn">Upload</button>
-                 <button class="close-btn">Close</button> 
+                 <button class="close-btn"  onclick="closeModel()">Close</button> 
           </div>
         </div>
     </div>
@@ -51,6 +51,11 @@
            function openModel(){
             const overlayElement = document.getElementById("overlay");
             overlayElement.style.display="flex";
+           }
+
+           function closeModel(){
+            const overlayElement = document.getElementById("overlay");
+            overlayElement.style.display="none";
            }
     </script>
 </body>
