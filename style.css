@@ -62,6 +62,7 @@
     margin-left:400px;
     height:40px;
     align-items:flex-start;
+    cursor: pointer;
 }
 #image{
     height:20px;
@@ -143,7 +144,7 @@
   font-size: 18px;
   align-content: center;
   color:white;
-  
+  cursor: pointer;
 }
 
 .close-btn{
@@ -155,6 +156,7 @@
     border: rgb(76, 76, 76) solid 2px;
     font-size: 18px;
     align-content: center;
+    cursor: pointer;
     
 }
 
